@@ -9,6 +9,7 @@ Copies a string in the form "np: Artist - Track" of the current playing song fro
 Type **np** and press **enter**. Easy peasy!
 
 ### Release History
+* 2014-03-14   v0.4   It now works if both iTunes and Spotfiy are open at the same time
 * 2014-03-14   v0.3   Add link to song if it is playing in Spotify
 * 2014-03-13   v0.2   Removed code repetion using AppleScript handler
 * 2014-03-13   v0.1   Basic set to clipboard for both apps
