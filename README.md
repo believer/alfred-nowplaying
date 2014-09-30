@@ -9,6 +9,7 @@ Copies a string in the form "np: Artist - Track" of the current playing song fro
 Type **np** and press **enter**. Easy peasy!
 
 ### Release History
+* 2014-09-30   v0.7   SoundCloud in browser support
 * 2014-04-16   v0.6   Now works for local songs in Spotify
 * 2014-04-15   v0.5   Doesn't start iTunes if user is listening with Spotify and vice versa
 * 2014-03-14   v0.4   Fix for when iTunes and Spotify are open at the same time
